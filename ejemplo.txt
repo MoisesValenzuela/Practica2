@@ -1,1 +1,3 @@
-Les deseo el mejor de los éxitos con su práctica =)
+#!/bin/bash
+La verdad pienso que no hizo falta ver mas sobre los comandos GIT, solo faltaria seguir practicandolos por nuestra cuenta
+
