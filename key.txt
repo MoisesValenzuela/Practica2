@@ -1,5 +1,5 @@
 #!/bin/bash
-for ((VAR=0 ; VAR<10 ; VAR++ ))
+for ((VAR=0 ; VAR<15 ; VAR++ ))
 do
    echo $VAR
 done
